@@ -1,0 +1,20 @@
+*{
+    background-color: darkgray;
+    text-size-adjust: 10%;
+}
+
+button {
+    color: red;
+    cursor: pointer;
+    font-weight: bold;
+    width: 10rem;
+    height: 5rem;
+    aspect-ratio: 1.5;
+    border: 2px solid #000;
+    background-color: #5DF4FF;
+    border-radius: 30px;
+    outline: 2px solid #666;
+    box-shadow: inset 0px -2px 2px 2px #222;
+  
+    transition: 0.4s all;
+}
