@@ -34,7 +34,4 @@ const sounds = {
 ]}
 
 
-const drumkit = document.createElement("drumkitDiv")
-const buttonEl = document.createElement("button")
-const audioEl = document.createElement("audio")
 
